@@ -1,0 +1,13 @@
+"State": {
+ "Status": "exited",
+ "Running": false,
+ "Paused": false,
+ "Restarting": false,
+ "OOMKilled": true,
+ "Dead": false,
+ "Pid": 0,
+ "ExitCode": 137,
+ "Error": "",
+ "StartedAt": "2019-10-21T01:13:51.7340288Z",
+ "FinishedAt": "2019-10-21T01:13:51.7961614Z"
+}
